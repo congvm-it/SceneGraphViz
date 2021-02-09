@@ -1,6 +1,6 @@
 # GraphViz for Scene Graph
 
-This is a clone project for Scene Graph Visualization from (GraphViz)[https://github.com/ranjaykrishna/GraphViz/]
+This is a clone project for Scene Graph Visualization from [GraphViz](https://github.com/ranjaykrishna/GraphViz/)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/ranjaykrishna/GraphViz/blob/master/LICENSE)
 
